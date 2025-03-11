@@ -4,4 +4,5 @@ Hello, I'm [Abdulhadi](https://github.com/Bugleap-dev), a passionate developer.
 
 - 🔭 I’m currently working on blockchain development.
 - 🌱 I’m learning Python.
-- 📫 How to reach me: [https://x.com/Bugleap](bugleap.dev@gmail.com).
+- 📫 How to reach me: [https://x.com/Bugleap](https://x.com/Bugleap)
+- 📫 My Email: bugleap.dev@gmail.com
